@@ -1,2 +1,2 @@
-# commando
-Azure Service Bus Topic with multi subscription
+# Commando
+Simple example of using Topics and subscriptions with Azure Service Bus

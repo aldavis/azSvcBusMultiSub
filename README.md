@@ -1,2 +1,2 @@
-# Commando
-Simple example of using Topics and subscriptions with Azure Service Bus
+# die-hard
+Simple example of using Queues with Azure Service Bus

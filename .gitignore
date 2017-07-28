@@ -3,6 +3,8 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+privateSettings.config
+
 # User-specific files
 *.suo
 *.user
@@ -11,6 +13,8 @@
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
+
+
 
 # Build results
 [Dd]ebug/
@@ -41,6 +45,9 @@ TestResult.xml
 [Dd]ebugPS/
 [Rr]eleasePS/
 dlldata.c
+
+# Benchmark Results
+BenchmarkDotNet.Artifacts/
 
 # .NET Core
 project.lock.json
@@ -183,6 +190,7 @@ AppPackages/
 BundleArtifacts/
 Package.StoreAssociation.xml
 _pkginfo.txt
+*.appx
 
 # Visual Studio cache files
 # files ending in .cache can be ignored
@@ -278,6 +286,9 @@ __pycache__/
 # tools/**
 # !tools/packages.config
 
+# Tabs Studio
+*.tss
+
 # Telerik's JustMock configuration file
 *.jmconfig
 
@@ -286,3 +297,5 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+Contact GitHub API Training Shop Blog About
+© 2017 GitHub, Inc. Terms Privacy Security Status Help

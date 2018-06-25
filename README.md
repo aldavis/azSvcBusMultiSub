@@ -1,5 +1,5 @@
-# commando
-Simple example of using Topics and Subscriptions with Azure Service Bus
+
+# Simple example of using Topics and Subscriptions with Azure Service Bus
 
 ## Getting Started
 * Create an azure service bus namespace (standard tier required).
